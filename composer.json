@@ -1,12 +1,12 @@
 {
-    "name": "actionm/laravel-webmoney-merchant",
+    "name": "vafir/laravel-webmoney-merchant",
     "description": "WebMoneyMerchant payments for Laravel",
     "keywords": [
         "laravel-webmoney-merchant",
         "webmoney-merchant",
         "payments"
     ],
-    "homepage": "https://github.com/actionm/laravel-webmoney-merchant",
+    "homepage": "https://github.com/vafir/laravel-webmoney-merchant",
     "license": "MIT",
     "authors": [
         {
